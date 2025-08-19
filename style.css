@@ -1,17 +1,17 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #008512;
     text-align: center;
     padding: 50px;
 }
 button {
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #a5fe88;
     border: none;
     color: white;
     font-size: 16px;
     border-radius: 5px;
 }
 button:hover {
-    background-color: #0056b3;
+    background-color: #b30000;
 }
